@@ -12,6 +12,7 @@ Supermarkets collect loyalty card data to analyze shopping behavior. This notebo
 - Exploratory Data Analysis (EDA)
 - Customer Segmentation
 - Visualization of Key Insights
+- Machine Learning regression models
 
 By understanding the patterns in customer purchases, the business can personalize offers, improve retention, and boost profits.
 
